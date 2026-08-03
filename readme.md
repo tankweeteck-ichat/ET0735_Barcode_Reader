@@ -3,21 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Raspberry Pi Barcode Reader</title>
-<style>
-body{font-family:Arial,Helvetica,sans-serif;line-height:1.65;color:#1f2937;background:#f5f7fa;margin:0}
-.container{max-width:950px;margin:35px auto;padding:45px 55px;background:#fff;border-radius:14px;box-shadow:0 4px 18px rgba(0,0,0,.1)}
-h1{text-align:center;color:#2E86C1} h2{border-bottom:2px solid #d9e0e7;padding-bottom:7px;margin-top:38px}
-.overview,.build{color:#28B463}.run{color:#E67E22}.stop{color:#C0392B}.rebuild{color:#8E44AD}.summary{color:#16A085}.image{color:#2E86C1}
-.subtitle{text-align:center;font-size:1.08rem}
-code{font-family:Consolas,"Courier New",monospace;background:#eef2f6;padding:2px 5px;border-radius:4px}
-pre{background:#20252b;color:#f4f7fa;padding:18px 20px;border-radius:8px;overflow-x:auto;border-left:5px solid #2E86C1}
-pre code{background:transparent;padding:0;color:inherit}
-.note,.important{padding:15px 18px;border-radius:7px;margin:18px 0}
-.note{background:#fff8df;border-left:5px solid #e0a800}.important{background:#fdecea;border-left:5px solid #C0392B}
-table{width:100%;border-collapse:collapse}th,td{border:1px solid #d9e0e7;padding:11px 13px;text-align:left}th{background:#16A085;color:white}tr:nth-child(even){background:#f7f9fb}
-footer{text-align:center;margin-top:42px;padding-top:20px;border-top:1px solid #d9e0e7;font-weight:bold;color:#52606d}
-</style>
 </head>
 <body><div class="container">
 <h1>📷 Raspberry Pi Barcode Reader</h1>
