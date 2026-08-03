@@ -19,6 +19,8 @@ image: raspberrypi-barcode:v1
 To run the docker container, use the two commands:
 
 xhost +SI:localuser:root
+
+
 docker compose up
 
 
